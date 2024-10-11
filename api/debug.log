@@ -1,0 +1,18 @@
+2024-10-11 17:04:46 Raw Request: Array
+(
+    [name] => demo
+    [email] => demo@gmail.com
+)
+
+2024-10-11 17:04:46 Response: Array
+(
+    [success] => 
+    [message] => Missing required fields
+    [debug] => Array
+        (
+            [name] => demo
+            [email] => demo@gmail.com
+        )
+
+)
+
